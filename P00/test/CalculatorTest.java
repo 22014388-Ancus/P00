@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class CalculatorTest { // Comment
+public class CalculatorTest { 
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
