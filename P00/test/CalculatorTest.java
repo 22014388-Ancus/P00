@@ -55,8 +55,8 @@ public class CalculatorTest {
 	
 	@Test
 	public void testDivide() {
-		int a = 100;
-		int b = 10;
+		int a = 1000;
+		int b = 100;
 		
 		Calculator cal = new Calculator();
 		int actual = cal.divide(a, b);
